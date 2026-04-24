@@ -1,0 +1,49 @@
+body { 
+    margin: 0; 
+}
+
+p {
+    position: absolute;
+    margin-top: 25px;
+    right: 25px;
+    z-index: 2;
+    color: white;
+    font-size: 36;
+}
+
+label {
+    color: white;
+}
+
+div {
+    z-index: 2;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#wildfireCheckBox {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+#severeStormsCheckbox {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: -133px;
+}
+
+#volcanoesCheckbox {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -133px;
+}
+
+#seaAndLakeIceCheckbox {
+    position: absolute;
+    margin-top: 75px;
+    margin-left: -133px;
+}
